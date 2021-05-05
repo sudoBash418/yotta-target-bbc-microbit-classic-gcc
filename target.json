@@ -1,6 +1,6 @@
 {
   "name": "bbc-microbit-classic-gcc",
-  "version": "0.2.3",
+  "version": "0.2.3-sb1",
   "description": "Official mbed build target for the BBC micro:bit, using the gcc toolchain.",
   "licenses": [
     {
